@@ -1,2 +1,5 @@
 #Ignore temporary files
 *.tmp
+
+#Ignore the files with .out extention
+*.out
