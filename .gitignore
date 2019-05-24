@@ -3,3 +3,6 @@
 
 #Ignore the files with .out extention
 *.out
+
+#Ignore PNG photos
+*.png
