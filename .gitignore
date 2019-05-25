@@ -7,3 +7,7 @@
 #Ignore PNG photos
 *.png
 
+#Ignore .exe and .obj files
+*.exe
+*.obj
+
