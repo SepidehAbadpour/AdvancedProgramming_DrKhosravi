@@ -14,5 +14,6 @@ int main()
 			cout << current << ", ";
 		counter = counter + 1;
 	}
+	//cout << ']' << endl;
 	return 0;
 }
