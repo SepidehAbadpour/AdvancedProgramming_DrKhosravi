@@ -95,7 +95,5 @@ int main() {
 		process_testcase(num_of_inputs, num_of_stages);
 		cin >> num_of_inputs >> num_of_stages;
 	}
-	//cin.ignore();
-	//cin.get();
 	return 0;
 }
